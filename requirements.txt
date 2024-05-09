@@ -1,0 +1,5 @@
+Adafruit-BMP==1.5.4
+Adafruit-DHT==1.4.0
+RPi.GPIO==0.7.1
+pyserial==3.5
+python-dotenv==1.0.1
